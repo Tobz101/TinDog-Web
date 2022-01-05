@@ -1,0 +1,107 @@
+#title{
+  background-color: #ff4c68;
+}
+
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+h1{
+  color: #fff;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h2{
+  font: arial;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+p{
+  color: grey;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding-bottom: 4.5rem;
+  background-color: #ff4c68;
+}
+.navbar-brand {
+  font-style: normal;
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-right: 30px;
+  margin-right: 0%;
+
+}
+.nav-item {
+  padding: 0 18px;
+}
+
+/*
+Title image  */
+
+.title-image{
+  width: 50%;
+}
+
+/* Features Section */
+
+
+#features{
+  padding: 7% 16%;
+  text-align: center;
+  font-style: arial;
+  font-size: 1rem;
+  background-color: white;
+}
+
+.feature-box{
+  padding: 5%;
+}
+.icon{
+  margin-bottom: 1rem;
+  color: #ff4c68;
+}
+
+/* Testimonials  */
+
+#testimonials{
+
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 50%;
+}
+
+/* Press */
+
+#press{
+  background-color: #ef8172;
+  padding: 3%;
+  text-align: center;
+}
+
+.press-text{
+  width: 15%;
+  margin: 30px 30px;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+/* Pricing */
+
+#pricing{
+
+  padding: 100px;
+}
+.pricing-coloumn{
+  padding: 2% 3%;
+  text-align: center;
+}
